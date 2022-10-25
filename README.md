@@ -12,6 +12,10 @@
 
 ## **About Me 😊😊**
 
+A computer science undergrad, a developer, a reader, a writer and a designer-in-making. I like to work with grids, push pixels on screens, draft beautiful letters, spill ugly code on weekdays and cry over bad designs on weekends. And yes, I also take bad photos, entertain lame jokes and sing when no one is around. I'm currently walking around in Kanpur and helping a startup build. But hey, nice to meet you! 
+
+### Quick Facts
+
 - 👨🏻‍🎓 I am a tutor at The Girl Code and a mentee at Codess.cafe.
 - 📚 I am a junior(CSE) at PSIT, Kanpur.
 - 👀 I’m interested in UX Designing, Python, Machine Learning and Web Devlopment.
