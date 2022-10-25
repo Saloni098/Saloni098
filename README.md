@@ -10,7 +10,7 @@
 
 </p>
 
-## **About Me 😊😊**
+## **About Me 🐠**
 
 A computer science undergrad, a developer, a reader, a writer and a designer-in-making. I like to work with grids, push pixels on screens, draft beautiful letters, spill ugly code on weekdays and cry over bad designs on weekends. And yes, I also take bad photos, entertain lame jokes and sing when no one is around. I'm currently walking around in Kanpur and helping a startup build. But hey, nice to meet you! 
 
